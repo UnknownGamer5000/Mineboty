@@ -1,12 +1,12 @@
 {
     "user":{
-        "username":"your_bot_user_name", // keep your bot user name here
+        "username":"SERVER", // keep your bot user name here
         "pass":""
     },
 
     "server":{
-        "address":"here", //your server ip
-        "port": here // keep your server port if you have
+        "address":"Velocitybd.aternos.me", //your server ip
+        "25565": here // keep your server port if you have
     },
 
     "keyword":{
